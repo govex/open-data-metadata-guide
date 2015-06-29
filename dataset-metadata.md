@@ -6,7 +6,7 @@ Basic metadata elements provide the most important pieces of information to help
 
 * **Title (or Name)**: Human-readable name for the data. It should be in plain English and include sufficient detail to facilitate search and discovery. Acronyms should be avoided.
 * **Description**: Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest.
-* **Category (or Theme)**: Main thematic category of the dataset, usually chosen from a predefined list. Refer to the Categories section of this guide for more information. Some open data portals limit a dataset to one category; others allow multiple.
+* **Category (or Theme)**: Main thematic category of the dataset, usually chosen from a predefined list. Refer to the [Categories](categories.md) section of this guide for more information. Some open data portals limit a dataset to one category; others allow multiple.
 * **Keywords (or Tags)**: Tags (or keywords) are generally single words which help visitors discover the data; please include terms that would be used by technical and non-technical users. Keywords can also be used by recommendation engines to help visitors discover similar datasets.
 * **Modification Date**: The most recent date on which the dataset was changed, updated, or modified.
 * **Contact Information**: The name and email address of the publisher of a dataset.
