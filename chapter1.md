@@ -1,7 +1,0 @@
-# Categories
-
-As an open data portal grows beyond 25-30 datasets, it is more helpful to visitors if they can browse for data by a subject matter or theme. These categories are short, at most a word or two, and allow related data to be grouped together. Categories also empower visitors to explore available data for inspiration, rather than requiring them to use a search tool to find something specific.
-
-Creating categories is often a fundamental step when implementing an open data portal. Categories do not need to be permanent; it makes sense to have three to four categories for a small number of datasets, and re-evaluate them on an annual basis as more data is published. Most mature open data portals have 8 to 12 categories. Having too many might mean that the categories are not broad enough. Having too few, especially when combined with a large number of datasets, might mean that the categories are too broad and less helpful for visitors.
-
-Although there is no consistent set of categories between open data portals, the following are quite common and might serve as a starting point: *Business*, *Education*, *Environment*, *Finance*, *Health*, *Human (or Social) Services*, *Property*, *Public Safety*, *Recreation*, and *Transportation*. A librarian or information architect can provide insight and assistance when creating or revising the list of categories.
