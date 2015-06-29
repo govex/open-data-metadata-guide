@@ -1,0 +1,1 @@
+# Appendix B: Sample Column Metadata
