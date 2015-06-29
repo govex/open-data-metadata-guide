@@ -17,3 +17,5 @@ Advanced metadata elements provide helpful information that allows third-party s
 * **Temporal Coverage**: The range of time included in this dataset. This may reflect a general range for all the records, or may reflect the earliest and latest dates from records in the data.
 * **Spatial Coverage**: The geographic area for which this dataset is relevant. A place name - particularly one associated with clear boundaries - is most commonly used. If the dataset includes geospatial information, spatial coverage can represent a bounding rectangle or polygon of all the geography contained within it, though this is uncommon.
 * **License**: Generally, datasets on an open data portal will all share the same license (usually noted in the site’s Terms of Service), however there may be circumstances where a specific dataset is offered using a different license.
+
+Refer to [Appendix A](appendix-a.md) for sample dataset metadata.
