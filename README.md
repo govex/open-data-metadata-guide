@@ -1,7 +1,7 @@
 Open Data Metadata Guide
 =======
 
-Metadata - descriptive information about the data you publish - is critical to helping visitors find and use published data effectively. Good metadata reduces the need for visitors to seek personal assistance, helps prevent misinterpretation of data, and encourages higher data quality.
+Metadata - descriptive information about data - is critical to helping visitors find and use published data effectively. Good metadata reduces the need for visitors to seek personal assistance, helps prevent misinterpretation of data, and encourages higher data quality.
 
 Metadata is generally divided into two types:
 * Metadata that provides an overview of the data. This kind of metadata helps people find the data through internet searches, while navigating your portal, or even while navigating other data portals which might include your catalog.
