@@ -1,5 +1,4 @@
 # Dataset Metadata
-
 Without dataset metadata, a catalog of published data could not exist. Many open data portals include the necessary tools to create dataset metadata when publishing new data. Some open data portals automatically update the metadata when editing datasets. Each dataset you publish will include many of the following metadata elements.
 
 ## Basic Elements
