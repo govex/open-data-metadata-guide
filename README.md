@@ -10,5 +10,3 @@ Metadata is generally divided into two types:
 This guide avoids the details of specific technologies; however, it takes into account existing (and emerging) national and international standards for metadata. Refer to the [Additional Resources](additional-resources.md) section for more information.
 
 To assist cities in advancing open data programs in their own communities, the [Center for Government Excellence at Johns Hopkins University](http://centerforgov.org), a partner in the [What Works Cities initiative](http://www.whatworkscities.org), has created this metadata guide. By learning from the experiences of other cities and following Center-developed best practices, cities will have a greater understanding of metadata and be well on their way to national leadership in open government data.
-
-test edit
