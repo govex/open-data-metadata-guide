@@ -10,12 +10,12 @@ Basic metadata elements provide the most important pieces of information to help
 * **Keywords (or Tags)**: Tags (or keywords) are generally single words which help visitors discover the data; please include terms that would be used by technical and non-technical users. Keywords can also be used by recommendation engines to help visitors discover similar datasets.
 * **Modification Date**: The most recent date on which the dataset was changed, updated, or modified.
 * **Contact Information**: The name and email address of the publisher of a dataset.
+* **License**: Often datasets on open data portals are available in the public domain with no restritions on reuse (usually this is noted in the site’s Terms of Service or Data Policy), however there may be circumstances where a specific dataset is offered using a different license. 
 
 ## Advanced Elements
 Advanced metadata elements provide helpful information that allows third-party software to consume both data catalogs and datasets. These items might not appear in catalog navigation pages or search results, but allow for sharing with other open data portals and search engines.
 * **Frequency**: The frequency with which dataset is updated, in plain English. For example, “Never,” “Hourly,” “Daily,” “Weekdays,” “Weekly,” “Semi-monthly,” “Monthly,” “Quarterly,” “Semi-annually,” “Annually,” etc. This helps visitors know how often they should check for new data, and is particularly valuable for software programmers who may set up automatic downloads.
 * **Temporal Coverage**: The range of time included in this dataset. This may reflect a general range for all the records, or may reflect the earliest and latest dates from records in the data.
 * **Spatial Coverage**: The geographic area for which this dataset is relevant. A place name - particularly one associated with clear boundaries - is most commonly used. If the dataset includes geospatial information, spatial coverage can represent a bounding rectangle or polygon of all the geography contained within it, though this is uncommon.
-* **License**: Generally, datasets on an open data portal will all share the same license (usually noted in the site’s Terms of Service), however there may be circumstances where a specific dataset is offered using a different license.
 
 Refer to [Appendix A](appendix-a.md) for sample dataset metadata.
