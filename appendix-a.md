@@ -2,9 +2,7 @@
 
 Standard Dataset Fields
 -----------------------------
-The U.S. federal government has created the Project Open Data metadata schema standard to implement the federal open data policy. The Project Open Data schema is based on the international DCAT metadata schema used by open data programs around the world. The Project Open Data schema must be preseneted as a JSON file to be ingested by Data.gov. This schema is natively available with many open data portal providers including: _Azavea_, _Esri Open Data_, _NuCivic's DKAN_, _OpenGov_, and _Socrata_, and is easily added to _CKAN_ sites with an extension.
-
-For more background on the metadata standard see: *[Project Open Data](https://project-open-data.cio.gov/v1.1/)*, to review [field mappings](https://project-open-data.cio.gov/v1.1/metadata-resources#field-mappings), and helpful [tools](https://project-open-data.cio.gov/#tools). 
+The U.S. federal government has created the Project Open Data metadata schema standard to implement the federal open data policy. The [Project Open Data](https://project-open-data.cio.gov/v1.1/) schema is based on the international DCAT metadata schema used by open data programs around the world and [has been mapped to many standards](https://project-open-data.cio.gov/v1.1/metadata-resources#field-mappings). The Project Open Data schema must be preseneted as a JSON file to be ingested by Data.gov. This schema is natively available with many open data portal providers including: _Azavea_, _Esri Open Data_, _NuCivic's DKAN_, _OpenGov_, and _Socrata_, and is easily added to _CKAN_ sites with an extension or can be generated on an ad hoc basis with these [tools](https://project-open-data.cio.gov/#tools). 
 
 Field                                                      | Label                     | Definition      | Required
 --------------                                             | --------------            | --------------  | --------------
