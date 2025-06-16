@@ -1,21 +1,34 @@
 # Dataset Metadata
-Without dataset metadata, a catalog of published data could not exist. Many open data portals include the necessary tools to create dataset metadata when publishing new data. Some open data portals automatically update the metadata when editing datasets. Each dataset you publish will include many of the following metadata elements.
 
-## Basic Elements
-Basic metadata elements provide the most important pieces of information to help visitors find data and determine if it is what they need. Many of these items will appear directly in catalog navigation pages or search results.
+Without metadata, a catalog of published datasets could not exist. Metadata provides the essential context that makes datasets discoverable, understandable, and usable. Most open data portals include built-in tools to create and manage metadata when publishing or updating datasets. Some systems even automate metadata updates during dataset edits. Each dataset you publish should include many of the following metadata elements, which fall into two primary categories: **Basic Elements** and **Advanced Elements**.
 
-* **Title (or Name)**: Human-readable name for the data. It should be in plain English and include sufficient detail to facilitate search and discovery. Acronyms should be avoided.
-* **Description**: Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest.
-* **Category (or Theme)**: Main thematic category of the dataset, usually chosen from a predefined list. Refer to the [Categories](categories.md) section of this guide for more information. Some open data portals limit a dataset to one category; others allow multiple.
-* **Keywords (or Tags)**: Tags (or keywords) are generally single words which help visitors discover the data; please include terms that would be used by technical and non-technical users. Keywords can also be used by recommendation engines to help visitors discover similar datasets.
-* **Modification Date**: The most recent date on which the dataset was changed, updated, or modified.
-* **Contact Information**: The name and email address of the publisher of a dataset.
-* **License**: Often datasets on open data portals are available in the public domain with no restritions on reuse (usually this is noted in the site’s Terms of Service or Data Policy), however there may be circumstances where a specific dataset is offered using a different license. 
+#### **Basic Metadata Elements**
 
-## Advanced Elements
-Advanced metadata elements provide helpful information that allows third-party software to consume both data catalogs and datasets. These items might not appear in catalog navigation pages or search results, but allow for sharing with other open data portals and search engines.
-* **Frequency**: The frequency with which dataset is updated, in plain English. For example, “Never,” “Hourly,” “Daily,” “Weekdays,” “Weekly,” “Semi-monthly,” “Monthly,” “Quarterly,” “Semi-annually,” “Annually,” etc. This helps visitors know how often they should check for new data, and is particularly valuable for software programmers who may set up automatic downloads.
-* **Temporal Coverage**: The range of time included in this dataset. This may reflect a general range for all the records, or may reflect the earliest and latest dates from records in the data.
-* **Spatial Coverage**: The geographic area for which this dataset is relevant. A place name - particularly one associated with clear boundaries - is most commonly used. If the dataset includes geospatial information, spatial coverage can represent a bounding rectangle or polygon of all the geography contained within it, though this is uncommon.
+These are the core descriptors that help users find, evaluate, and understand your dataset. Many appear directly on catalog navigation pages or in search results.
 
-Refer to [Appendix A](appendix-a.md) for sample dataset metadata.
+* **Title (or Name):**\
+  A clear, human-readable name for the dataset. Use plain English and enough detail to support search and discovery. Avoid acronyms or overly technical language.
+* **Description:**\
+  A concise but informative summary that helps users quickly determine whether the dataset is relevant to their needs.
+* **Category (or Theme):**\
+  The primary subject area of the dataset, typically chosen from a predefined list. Some portals allow only one category per dataset, while others support multiple.
+* **Keywords (or Tags):**\
+  Single words or short phrases that describe the dataset. Include terms that technical and non-technical users might search for. Keywords also support discovery through recommendation engines.
+* **Modification Date:**\
+  The most recent date on which the dataset was updated, modified, or changed.
+* **Contact Information:**\
+  The name and email address of the dataset publisher or responsible party, so users can follow up with questions or feedback.
+* **License:**\
+  Information about how the dataset may be used. Most open data is released under public domain or open licenses, though some datasets may carry specific reuse restrictions.
+
+#### **Advanced Metadata Elements**
+
+These elements enhance interoperability and support automated systems that integrate data from multiple sources. While they may not appear in user-facing catalogs, they are critical for enabling third-party tools and platforms to access and interpret your data.
+
+* **Frequency:**\
+  Describes how often the dataset is updated, using plain language such as “Daily,” “Monthly,” “Annually,” or “As needed.” This is especially useful for developers setting up data integrations or automated processes.
+* **Temporal Coverage:**\
+  Indicates the time period covered by the dataset. This may be a general timeframe (e.g., 2015–2023) or the exact start and end dates reflected in the data.
+* **Spatial Coverage:**\
+  Defines the geographic scope of the dataset. This could be a city, county, state, or other defined area. For geospatial datasets, this may also include bounding coordinates or shapes, though that level of detail is less common.
+
