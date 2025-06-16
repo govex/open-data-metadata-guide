@@ -1,5 +1,6 @@
-# Summary
+# Table of contents
 
+* [README](README.md)
 * [Categories](categories.md)
 * [Dataset Metadata](dataset-metadata.md)
 * [Column Metadata](column-metadata.md)
